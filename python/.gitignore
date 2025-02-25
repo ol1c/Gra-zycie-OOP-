@@ -1,0 +1,55 @@
+# Pliki kompilowane przez Pythona
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pliki środowiska wirtualnego
+venv/
+env/
+.virtualenv/
+.venv/
+ENV/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Pliki konfiguracyjne edytorów
+.vscode/
+.idea/
+*.iml
+*.sublime-workspace
+
+# Pliki zależności
+Pipfile
+Pipfile.lock
+poetry.lock
+
+# Pliki logów
+*.log
+
+# Pliki testów i pokrycia kodu
+.coverage
+.tox/
+.nox/
+.cache/
+pytest_cache/
+
+# Pliki tymczasowe
+*.tmp
+*.swp
+*.swo
+*.bak
+
+# Bazy danych SQLite
+*.sqlite3
+*.db
+
+# Pliki Jupyter Notebook
+.ipynb_checkpoints/
+
+# Pliki Dockerowe
+.dockerignore
+
+# Pliki systemowe (Windows / macOS / Linux)
+.DS_Store
+Thumbs.db
+desktop.ini
