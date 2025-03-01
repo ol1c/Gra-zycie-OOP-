@@ -8,10 +8,7 @@ Gra posiada swoje trzy wersje: C++, Java, Python. Program w uproszczony sposób 
 
 ## ⚙️ Użyte technologie
 
-- **C++** – Język programowania użyty do stworzenia jednej z wersji aplikacji.
-- **Java** – Język programowania użyty do stworzenia jednej z wersji aplikacji.
 - **Java Swing** – Biblioteke graficzna wykorzystana do stworzenia interfejsu w wersji Java.
-- **Python** – Język programowania użyty do stworzenia jednej z wersji aplikacji.
 - **Tkinter** – Biblioteke graficzna wykorzystana do stworzenia interfejsu w wersji Python.
 
 ## 🎮 Przykładowe gry
